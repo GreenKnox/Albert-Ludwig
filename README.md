@@ -19,7 +19,7 @@
 
 <div align="center">
 <h1>
-  Hey there, I'm Abdulrehman!
+  Hey there, I'm Albert Ludwig!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -31,14 +31,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nowhere.
+I am a Full Stack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nowhere.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://www.instagram.com/abdulgenrehman10/"><img src="https://img.shields.io/badge/instagram-12k-important"></a>
+- :mailbox:How to reach me: <a href="https://www.instagram.com/daniel_greenknox/"><img src="https://img.shields.io/badge/instagram-12k-important"></a>
 
 
 
@@ -69,11 +69,11 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genabdulrehman&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GreenKnox&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=genabdulrehman&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Greenknox&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genabdulrehman&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenKnox&layout=compact"/>
 
